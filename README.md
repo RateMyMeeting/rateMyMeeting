@@ -12,4 +12,5 @@ Docker container for a django which deploys a sample webapp
 
 **Verify:**
 
-    Open browser and go to http://localhost:8000	
+    Open browser and go to http://localhost:8000
+
